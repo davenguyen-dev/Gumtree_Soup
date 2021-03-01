@@ -1,0 +1,1 @@
+Currently Gumtree only offers daily email notifications. This program brings the Gumtree marketplace user the ability to receive notifications immediately after a new item is posted online. The website is scraped for html tags that correspond to new posts. An automated email is sent to the the user's gmail account.
